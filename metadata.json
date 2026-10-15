@@ -1,0 +1,6 @@
+{
+  "name": "MarkMorph - Universal Document to Markdown Converter",
+  "description": "Fast, privacy-focused universal file converter to clean Markdown (.md). Supports PDF, DOCX, PPTX, XLSX, EPUB, HTML, TXT, CSV, JSON, images, and batch conversion with live preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
